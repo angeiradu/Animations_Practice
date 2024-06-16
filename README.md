@@ -1,16 +1,5 @@
-# animations
+# animations 
 
-A new Flutter project.
+This Fluttet code defines an animated grid of icons where each icon can be enlarged, rotated and its color charged when tapped.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Demo: https://www.canva.com/design/DAGIS8gyhfM/9GFrfaW8v5kFwo50LpqzTw/edit?utm_content=DAGIS8gyhfM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
